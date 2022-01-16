@@ -26,10 +26,10 @@ All projects mentioned below are hosted on AWS.
 ### Others
 
 - Designing database for fictional event organizer company.
-  - [Database Design Spring 2021](https://github.com/otsojm/otsojm-Portfolio/DatabaseDesign_Spring2021.pdf)
+  - [Database Design Spring 2021](https://otsojm.github.io/otsojm-Portfolio/DatabaseDesign_Spring2021.pdf)
 
 - Locator App made with React PWA for locating public toilets within Espoo, Helsinki and Vantaa.
   - [Vessa.info Spring 2021](https://vessa.info)
 
 - Software requirements specification document for fictional online lodging marketplace compnay.
-  - [SRS Winter 2021](https://github.com/otsojm/otsojm-Portfolio/SRS_Winter2021.pdf)
+  - [SRS Winter 2021](https://otsojm.github.io/otsojm-Portfolio/SRS_Winter2021.pdf)
