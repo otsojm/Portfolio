@@ -1,7 +1,7 @@
 ## Welcome to otsojm's Portfolio
 
 - 👋 I’m Otso Metsäportti aka otsojm and I'm currently studying Information technology at Haaga-Helia University of Applied Sciences (BBA) and 
-      in my 'free time' I am also really passionate to learn more about that field.
+      in my free time I am also really passionate to learn more about that field.
 - 👀 I’m interested in Software development and Cloud services.
 - 🌱 I’m currently learning more about Java, React.js, Node.js, AWS and starting with Python.
 - 💞️ I’m looking to do my internship in May 2022 -->
@@ -31,5 +31,5 @@ All projects mentioned below are hosted on AWS.
 - Locator App made with React PWA for locating public toilets within Espoo, Helsinki and Vantaa.
   - [Vessa.info Spring 2021](https://vessa.info)
 
-- Software requirements specification document for fictional online lodging marketplace compnay.
+- Software requirements specification document for fictional online lodging marketplace company.
   - [SRS Winter 2021](https://otsojm.github.io/otsojm-Portfolio/SRS_Winter2021.pdf)
