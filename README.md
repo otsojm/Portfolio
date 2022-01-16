@@ -21,7 +21,7 @@ All projects mentioned below are hosted on AWS.
   - [Java Spring Reservation System Winter 2021](https://github.com/otsojm/HH_JavaSpring_ResSystem)
 
 - Survey platform made with React PWA, Java Spring and PostgreSQL.
-  - [Survey platform Winter 2021](https://github.com/otsojm/surveyplatform_frontend)   
+  - [Survey platform Winter 2021](https://github.com/otsojm/HH_Surveyplatform_FrontEnd)   
 
 ### Others
 
