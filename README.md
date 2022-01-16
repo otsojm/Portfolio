@@ -18,7 +18,7 @@ All projects mentioned below are hosted on AWS.
   - [Personal Trainer App Winter 2021](https://github.com/otsojm/HH_React_PersonalTrainer)
 
 - Reservation system for ball games made with Java Spring and MongoDB for fictional housing cooperative.
-  - [Java Spring Reservation System Winter 2021](https://github.com/otsojm/HH_JavaSpring_ResSystem)
+  - [Reservation System Winter 2021](https://github.com/otsojm/HH_JavaSpring_ResSystem)
 
 - Survey platform made with React PWA, Java Spring and PostgreSQL.
   - [Survey platform Winter 2021](https://github.com/otsojm/HH_Surveyplatform_FrontEnd)   
