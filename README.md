@@ -4,13 +4,11 @@
       in my free time I am also really passionate to learn more about that field.
 - 👀 I’m interested in Software development and Cloud services.
 - 🌱 I’m currently learning more about Java, React.js, Node.js, AWS and starting with Python.
-- 💞️ I’m looking to do my internship in May 2022 -->
+- 💞️ I’m in the middle of my final year, so I'm looking to do my internship in May 2022 (around 5 months, but it is flexible) -->
 - 📫 You can reach me at my:
   - [LinkedIn](https://fi.linkedin.com/in/otso-metsaportti)
   - otso.metsaportti(at)myy.haaga-helia.fi
   - +358 40 418 45860
-
-
 
 Below you can find every project I have published at this point. I have a few more underway. I have been keeping myself busy: I am currently one year ahead with my studies compared to my peers and also I am working part-time. But you can find them here, when I am able to find the time to finish them.
 
