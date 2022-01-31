@@ -18,9 +18,9 @@ These will be related to subjects like React Native, database design and impleme
 
 ### Files
 
-- [Resume/CV](https://otsojm.github.io/otsojm-Portfolio/OtsoMetsaportti-Resume.pdf)
+- [Resume/CV](https://otsojm.github.io/otsojm-Portfolio/Otso_Metsaportti_Resume.pdf)
 
-- [Cisco CCNA Routing and Switching Certificate](https://otsojm.github.io/otsojm-Portfolio/OtsoMetsaportti-Cisco-Certificate.pdf)
+- [Cisco CCNA Routing and Switching Certificate](https://otsojm.github.io/otsojm-Portfolio/Otso_Metsaportti_Cisco_Certificate.pdf)
   - You can check other certificate validations from my LinkedIn.
 
 ### Public repositories
