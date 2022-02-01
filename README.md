@@ -14,7 +14,7 @@ Below you can find every project I have published at this point. I have a few mo
 
 These will be related to subjects like React Native, database design and implementation and cloud services.
 
-🏫 GPA 4.39 from all studies and 4.86 from Software development courses.
+🏫 GPA 4.40 from all studies and 4.75 from Software development courses.
 
 ### Files
 
