@@ -10,9 +10,16 @@
   - otso.metsaportti(at)myy.haaga-helia.fi
   - +358 40 418 45860
 
-Below you can find every project I have published at this point. I have a few more underway. I have been keeping myself busy: I am currently one year ahead with my studies compared to my peers and also I am working part-time. But you can find them here, when I am able to find the time to finish them.
+Below you can find every project I have published at this point. I have a few more underway. I have been keeping myself busy: I am currently one year ahead with my               studies compared to my peers and also I am working part-time. But you can find them here, when I am able to find the time to finish them.
 
-These will be related to subjects like React Native, database design and implementation and cloud services.
+During this spring you can expect me to do few projects, which are related to subjects like:
+
+      1) React Native
+      2) Database design and implementation
+      3) Python
+      4) React.js, Node.js/Express.js, MongoDB and AWS
+      
+      🔥 Also going to participate to AWS Certified Cloud Practitioner exam soon.
 
 🏫 GPA 4.40 from all studies and 4.75 from Software development courses.
 
