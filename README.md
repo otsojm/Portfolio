@@ -19,7 +19,7 @@ During this spring you can expect me to do few projects, which are related to su
       3) Python
       4) React.js, Node.js/Express.js, MongoDB and AWS
       
-      🔥 Also going to participate to AWS Certified Cloud Practitioner exam soon.
+      Also, I have accomplished AWS Certified Cloud Practioner Certification on February 7. Currently waiting for me badge to arrive. 🔥
 
 🏫 GPA 4.40 from all studies and 4.75 from Software development courses.
 
