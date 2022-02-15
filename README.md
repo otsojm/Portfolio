@@ -36,7 +36,7 @@ During this spring you can expect me to do few projects, which are related to su
 - Reservation system for ball games made with Java Spring Boot and MongoDB for fictional housing cooperative.
   - [Reservation System Winter 2021](https://github.com/otsojm/HH_JavaSpring_ResSystem)
 
-- Survey platform made with React PWA, Java Spring Boot and PostgreSQL.
+- Survey Platform made with React PWA, Java Spring Boot and PostgreSQL.
   - [Survey platform Winter 2021](https://github.com/otsojm/HH_Surveyplatform_FrontEnd)   
 
 ### Others
