@@ -1,14 +1,13 @@
 ## Welcome to otsojm's Portfolio
 
-- 👋 I’m Otso Metsäportti aka otsojm and I'm currently studying information technology at Haaga-Helia University of Applied Sciences (BBA) and 
+- 👋 I’m Otso Metsäportti aka otsojm and I'm currently studying Information technology at Haaga-Helia University of Applied Sciences (BBA) and 
       in my free time I’m also really passionate to learn more about that field.
 - 👀 I’m interested in software development and cloud services.
 - 🌱 I’m currently learning more about subjects like Java, React.js, Node.js, AWS and starting with Python, for example.
-- 💞️ I’m in the middle of my final year, so I'm looking to do my internship in May 2022 (around 5 months, but it is flexible) --> and keep working after that.
+- 💞️ I am starting the last year with my studies: last courses during January-May,
+internship around May-September and writing thesis at the end of the year.
 - 📫 You can reach me at my:
   - [LinkedIn](https://fi.linkedin.com/in/otso-metsaportti)
-  - otso.metsaportti(at)myy.haaga-helia.fi
-  - +358 40 418 45860
 
 Below you can find every project I have published at this point. I have a few more underway. I have been keeping myself busy: I am currently one year ahead with my               studies compared to my peers and also I am working part-time. But you can find them here, when I am able to find the time to finish them.
 
