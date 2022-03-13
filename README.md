@@ -25,7 +25,7 @@ During this spring you can expect me to do few projects, which are related to su
 - [Resume/CV](https://otsojm.github.io/otsojm-portfolio/Otso_Metsaportti_Resume.pdf)
 
 - [Cisco CCNA Routing and Switching Certificate](https://otsojm.github.io/otsojm-portfolio/Otso_Metsaportti_Cisco_Certificate.pdf)
-  - You can check other certificate validations from my LinkedIn.
+  - You can check other certificate validations from my LinkedIn (e.g, AWS Certified Cloud Practitioner).
 
 ### Public repositories
 
