@@ -22,29 +22,29 @@ During this spring you can expect me to do few projects, which are related to su
 
 ### Files
 
-- [Resume/CV](https://otsojm.github.io/otsojm-Portfolio/Otso_Metsaportti_Resume.pdf)
+- [Resume/CV](https://otsojm.github.io/otsojm-portfolio/Otso_Metsaportti_Resume.pdf)
 
-- [Cisco CCNA Routing and Switching Certificate](https://otsojm.github.io/otsojm-Portfolio/Otso_Metsaportti_Cisco_Certificate.pdf)
+- [Cisco CCNA Routing and Switching Certificate](https://otsojm.github.io/otsojm-portfolio/Otso_Metsaportti_Cisco_Certificate.pdf)
   - You can check other certificate validations from my LinkedIn.
 
 ### Public repositories
 
 - Personal Trainer Application made with React PWA to manage customers and their trainings within database.
-  - [Personal Trainer App Winter 2021](https://github.com/otsojm/HH_React_PersonalTrainer)
+  - [Personal Trainer App Winter 2021](https://github.com/otsojm/hh-react-personal-trainer)
 
 - Reservation system for ball games made with Java Spring Boot and MongoDB for fictional housing cooperative.
-  - [Reservation System Winter 2021](https://github.com/otsojm/HH_JavaSpring_ResSystem)
+  - [Reservation System Winter 2021](https://github.com/otsojm/hh-java-spring_res-system)
 
 - Survey Platform made with React PWA, Java Spring Boot and PostgreSQL.
-  - [Survey platform Winter 2021](https://github.com/otsojm/HH_Surveyplatform_FrontEnd)   
+  - [Survey platform Winter 2021](https://github.com/otsojm/hh_surveyplatform-front-end)   
 
 ### Others
 
 - Designing database for fictional event organizer company.
-  - [Database Design Spring 2021](https://otsojm.github.io/otsojm-Portfolio/DatabaseDesign_Spring2021.pdf)
+  - [Database Design Spring 2021](https://otsojm.github.io/otsojm-portfolio/DatabaseDesign_Spring2021.pdf)
 
 - Locator App made with React PWA for locating public toilets within Espoo, Helsinki and Vantaa.
   - [Vessa.info Spring 2021](https://vessa.info)
 
 - Software requirements specification document for fictional online lodging marketplace company.
-  - [SRS Winter 2021](https://otsojm.github.io/otsojm-Portfolio/SRS_Winter2021.pdf)
+  - [SRS Winter 2021](https://otsojm.github.io/otsojm-portfolio/SRS_Winter2021.pdf)
