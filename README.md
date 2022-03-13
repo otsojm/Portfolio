@@ -33,10 +33,10 @@ During this spring you can expect me to do few projects, which are related to su
   - [Personal Trainer App Winter 2021](https://github.com/otsojm/hh-react-personal-trainer)
 
 - Reservation system for ball games made with Java Spring Boot and MongoDB for fictional housing cooperative.
-  - [Reservation System Winter 2021](https://github.com/otsojm/hh-java-spring_res-system)
+  - [Reservation System Winter 2021](https://github.com/otsojm/hh-java-spring-res-system)
 
 - Survey Platform made with React PWA, Java Spring Boot and PostgreSQL.
-  - [Survey platform Winter 2021](https://github.com/otsojm/hh_surveyplatform-front-end)   
+  - [Survey platform Winter 2021](https://github.com/otsojm/hh-surveyplatform-front-end)   
 
 ### Others
 
