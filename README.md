@@ -29,7 +29,7 @@ During this spring you can expect me to do few projects, which are related to su
 
 ### Public repositories
 
-- "Person Database as a pre-assigment for summer job application 2022 (ReactJS, TypeScript, Java, Spring Boot, REST and PostgreSQL).
+- "Person Database" as a pre-assigment for summer job 2022 (ReactJS, TypeScript, Java, Spring Boot, REST and PostgreSQL).
   - [Pre-Assigment Front-End](https://github.com/otsojm/hh-react-personal-trainer)
 
 - Personal Trainer Application made with React PWA to manage customers and their trainings within database.
