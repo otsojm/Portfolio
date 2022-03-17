@@ -29,6 +29,9 @@ During this spring you can expect me to do few projects, which are related to su
 
 ### Public repositories
 
+- "Person Database as a pre-assigment for summer job application 2022 (ReactJS, TypeScript, Java, Spring Boot, REST and PostgreSQL).
+  - [Pre-Assigment Front-End](https://github.com/otsojm/hh-react-personal-trainer)
+
 - Personal Trainer Application made with React PWA to manage customers and their trainings within database.
   - [Personal Trainer App Winter 2021](https://github.com/otsojm/hh-react-personal-trainer)
 
@@ -40,11 +43,11 @@ During this spring you can expect me to do few projects, which are related to su
 
 ### Others
 
+- Software requirements specification document for fictional online lodging marketplace company.
+  - [SRS Winter 2021](https://otsojm.github.io/otsojm-portfolio/SRS_Winter2021.pdf)
+
 - Designing database for fictional event organizer company.
   - [Database Design Spring 2021](https://otsojm.github.io/otsojm-portfolio/DatabaseDesign_Spring2021.pdf)
 
 - Locator App made with React PWA for locating public toilets within Espoo, Helsinki and Vantaa.
   - [Vessa.info Spring 2021](https://vessa.info)
-
-- Software requirements specification document for fictional online lodging marketplace company.
-  - [SRS Winter 2021](https://otsojm.github.io/otsojm-portfolio/SRS_Winter2021.pdf)
