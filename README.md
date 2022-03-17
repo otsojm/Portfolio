@@ -29,17 +29,17 @@ During this spring you can expect me to do few projects, which are related to su
 
 ### Public repositories
 
-- "Person Database" as a pre-assigment for summer job 2022 (ReactJS, TypeScript, Java, Spring Boot, REST and PostgreSQL).
-  - [Pre-Assigment Front-End](https://github.com/otsojm/pre-assigment-summer-2022-front-end)
-  - [Pre-Assigment Back-End](https://github.com/otsojm/pre-assigment-summer-2022-back-end)
+- "Person Database" as a pre-assigment for summer job 2022 made with ReactJS, TypeScript, Java, Spring Boot, REST and PostgreSQL.
+  - [Pre-Assigment Front-End Spring 2022](https://github.com/otsojm/pre-assigment-summer-2022-front-end)
+  - [Pre-Assigment Back-End Spring 2022](https://github.com/otsojm/pre-assigment-summer-2022-back-end)
 
 - Personal Trainer Application made with React PWA to manage customers and their trainings within database.
   - [Personal Trainer App Winter 2021](https://github.com/otsojm/hh-react-personal-trainer)
 
-- Reservation system for ball games made with Java Spring Boot and MongoDB for fictional housing cooperative.
+- Reservation system for ball games made with Java, Spring Boot, REST and MongoDB for fictional housing cooperative.
   - [Reservation System Winter 2021](https://github.com/otsojm/hh-java-spring-res-system)
 
-- Survey Platform made with React PWA, Java Spring Boot and PostgreSQL.
+- Survey Platform made with React PWA, Java, Spring Boot, REST and PostgreSQL.
   - [Survey platform Winter 2021](https://github.com/otsojm/hh-surveyplatform-front-end)   
 
 ### Others
