@@ -15,8 +15,8 @@ During this spring you can expect me to do few projects, which are related to su
 
       1) React Native
       2) Database design and implementation
-      3) Python
-      4) React.js, Node.js/Express.js, MongoDB and AWS
+      3) CI/CD pipeline and monitoring
+      4) React.js, Node.js/Express.js, socket.io, MongoDB and AWS
 
 🏫 GPA 4.40 from all studies and 4.75 from Software development courses.
 
@@ -40,7 +40,8 @@ During this spring you can expect me to do few projects, which are related to su
   - [Reservation System Winter 2021](https://github.com/otsojm/hh-java-spring-res-system)
 
 - Survey Platform made with React PWA, Java, Spring Boot, REST and PostgreSQL.
-  - [Survey platform Winter 2021](https://github.com/otsojm/hh-surveyplatform-front-end)   
+  - [Survey platform Front-End Winter 2021](https://github.com/otsojm/hh-surveyplatform-front-end)
+  - [Survey platform Back-End Winter 2021](https://github.com/S1nd5/surveyplatform_backend)     
 
 ### Others
 
