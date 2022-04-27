@@ -29,6 +29,9 @@ During this spring you can expect me to do few projects, which are related to su
 
 ### Public repositories
 
+- Budget Tracking App made with React Native and Firebase.
+  - [Budget-It Spring 2022](https://github.com/otsojm/budget-it)
+
 - "Person Database" as a pre-assigment for summer job 2022 made with ReactJS, TypeScript, Java, Spring Boot, REST and PostgreSQL.
   - [Pre-Assigment Front-End Spring 2022](https://github.com/otsojm/pre-assigment-summer-2022-front-end)
   - [Pre-Assigment Back-End Spring 2022](https://github.com/otsojm/pre-assigment-summer-2022-back-end)
