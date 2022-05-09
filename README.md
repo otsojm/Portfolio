@@ -5,18 +5,11 @@
 - 👀 I’m interested in software development and cloud services.
 - 🌱 I’m currently learning more about subjects like Java, React.js, Node.js, AWS and starting with Python, for example.
 - 💞️ I am starting the last year with my studies: last courses during January-May,
-internship around May-September and writing thesis at the end of the year.
+internship around May-September (currently working as a Junior Developer at Apix Messaging Oy) and writing thesis at the end of the year.
 - 📫 You can reach me at my:
   - [LinkedIn](https://fi.linkedin.com/in/otso-metsaportti)
 
-Below you can find every project I have published at this point. I have a few more underway. I have been keeping myself busy: I am currently one year ahead with my               studies compared to my peers and also I am working part-time. But you can find them here, when I am able to find the time to finish them.
-
-During this spring you can expect me to do few projects, which are related to subjects like:
-
-      1) React Native
-      2) Database design and implementation
-      3) CI/CD pipeline and monitoring
-      4) React.js, Node.js/Express.js, socket.io, MongoDB and AWS
+Below you can find every project I have published at this point. I have a few more underway. I have been keeping myself busy: I am currently one year ahead with my               studies compared to my peers and also I am working full-time.
 
 🏫 GPA 4.40 from all studies and 4.75 from Software development courses.
 
@@ -28,6 +21,10 @@ During this spring you can expect me to do few projects, which are related to su
   - You can check other certificate validations from my LinkedIn (e.g, AWS Certified Cloud Practitioner).
 
 ### Public repositories
+
+- Casino and live Texas Hold'em made with React.js, Node.js/Express.js, socket.io, MongoDB and AWS/Github Actions (hosting, CI/CD pipeline and monitoring);
+  - [Casino Back-End Spring 2022](https://github.com/Agile-Applet/Back-End)
+  - [Casino Front-End Spring 2022](https://github.com/Agile-Applet/Front-End)
 
 - Budget Tracking App made with React Native and Firebase.
   - [Budget-It Spring 2022](https://github.com/otsojm/budget-it)
@@ -47,6 +44,9 @@ During this spring you can expect me to do few projects, which are related to su
   - [Survey platform Back-End Winter 2021](https://github.com/S1nd5/surveyplatform_backend)     
 
 ### Others
+
+- Designing and implementing database for fictional conference organizer company.
+  - [Database Design and Implementation Spring 2022](https://otsojm.github.io/otsojm-portfolio/placeholder)
 
 - Software requirements specification document for fictional online lodging marketplace company.
   - [SRS Winter 2021](https://otsojm.github.io/otsojm-portfolio/SRS_Winter2021.pdf)
