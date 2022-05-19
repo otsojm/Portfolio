@@ -46,7 +46,7 @@ Below you can find every project I have published at this point. I have a few mo
 ### Others
 
 - Designing and implementing database for fictional conference organizer company.
-  - [Database Design and Implementation Spring 2022](https://otsojm.github.io/otsojm-portfolio/placeholder)
+  - [Database Design and Implementation Spring 2022](https://otsojm.github.io/otsojm-portfolio/DatabaseDesign_Spring2022.pdf)
 
 - Software requirements specification document for fictional online lodging marketplace company.
   - [SRS Winter 2021](https://otsojm.github.io/otsojm-portfolio/SRS_Winter2021.pdf)
