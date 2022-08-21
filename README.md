@@ -1,17 +1,15 @@
 ## Welcome to otsojm's Portfolio
 
-- 👋 I’m Otso Metsäportti aka otsojm and I'm currently studying Information technology at Haaga-Helia University of Applied Sciences (BBA) and 
-      in my free time I’m also really passionate to learn more about that field.
-- 👀 I’m interested in software development and cloud services.
-- 🌱 I’m currently learning more about subjects like Java, React.js, Node.js, AWS and starting with Python, for example.
-- 💞️ I am starting the last year with my studies: last courses during January-May,
-internship around May-September (currently working as a Junior Developer at Apix Messaging Oy) and writing thesis at the end of the year.
+- 👋 I’m Otso Metsäportti aka otsojm.
+- 👀 I’m interested in Software Development and Cloud Services.
+- 🌱 I’m currently learning more about subjects like **Javascript, AWS, Python, ERP, EDI/E-invoicing, for example.**
+- 💞️ Thesis student at Haaga-Helia University of Applied Sciences (BBA/Information Technology), Junior Developer at Apix Messaging Oy and in my free time I’m also really passionate to learn more.
 - 📫 You can reach me at my:
   - [LinkedIn](https://fi.linkedin.com/in/otso-metsaportti)
 
 Below you can find every project I have published at this point. I have a few more underway. I have been keeping myself busy: I am currently one year ahead with my               studies compared to my peers and also I am working full-time.
 
-🏫 GPA 4.40 from all studies and 4.75 from Software development courses.
+🏫 GPA 4.42 from all studies and 4.75 from Software development courses.
 
 ### Files
 
@@ -26,7 +24,7 @@ Below you can find every project I have published at this point. I have a few mo
   - [Casino Back-End Spring 2022](https://github.com/Agile-Applet/Back-End)
   - [Casino Front-End Spring 2022](https://github.com/Agile-Applet/Front-End)
 
-- Budget Tracking App made with React Native and Firebase.
+- Budget Tracking App made with React Native, REST and Firebase.
   - [Budget-It Spring 2022](https://github.com/otsojm/budget-it)
 
 - "Person Database" as a pre-assigment for summer job 2022 made with ReactJS, TypeScript, Java, Spring Boot, REST and PostgreSQL.
