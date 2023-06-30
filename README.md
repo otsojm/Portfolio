@@ -3,11 +3,11 @@
 - 👋 I’m Otso Metsäportti aka otsojm.
 - 👀 I’m interested in Software Development and Cloud Services.
 - 🌱 I’m currently learning more about subjects like **Javascript, AWS, Python, ERP, EDI/E-invoicing, for example.**
-- 💞️ Thesis student at Haaga-Helia University of Applied Sciences (BBA/Information Technology), Junior Developer at Apix Messaging Oy and in my free time I’m also really passionate to learn more about the field.
+- 💞️ Thesis student at Haaga-Helia University of Applied Sciences (BBA/Information Technology), Developer at Apix Messaging Oy and in my free time I’m also really passionate to learn more about the field.
 - 📫 You can reach me at my:
   - [LinkedIn](https://fi.linkedin.com/in/otso-metsaportti)
 
-Below you can find every project I have published at this point. I have a few more underway. I have been keeping myself busy: I am currently one year ahead with my               studies compared to my peers and also I am working full-time.
+Below you can find every project I have published at this point. I have a few more underway.
 
 🏫 GPA 4.42 from all studies and 4.75 from Software development courses.
 
