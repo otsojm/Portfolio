@@ -18,7 +18,7 @@ Below you can find every project I have published at this point. I have a few mo
 - [Cisco CCNA Routing and Switching Certificate](https://otsojm.github.io/otsojm-portfolio/Otso_Metsaportti_Cisco_Certificate.pdf)
   - You can check other certificate validations from my LinkedIn (e.g, AWS Certified Cloud Practitioner).
 
-### Public repositories
+### Public repositories (made during studies) 
 
 - Casino and live Texas Hold'em made with React.js, Node.js/Express.js, socket.io, MongoDB and AWS/Github Actions (hosting, CI/CD pipeline and monitoring);
   - [Casino Back-End Spring 2022](https://github.com/Agile-Applet/Back-End)
