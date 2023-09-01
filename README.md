@@ -1,9 +1,9 @@
 ## Welcome to otsojm's Portfolio
 
-- 👋 I’m Otso Metsäportti aka otsojm.
-- 👀 I’m interested in Software Development and Cloud Services.
-- 🌱 I’m currently learning more about subjects like **Javascript, AWS, Python, ERP, EDI/E-invoicing, for example.**
-- 💞️ Thesis student at Haaga-Helia University of Applied Sciences (BBA/Information Technology), Developer at Apix Messaging Oy and in my free time I’m also really passionate to learn more about the field.
+- 👋 Hi, I'm Otso Metsäportti, also known as otsojm.
+- 👀 I have a keen interest in EDI, Software Development, and Cloud Services.
+- 🌱 Currently, I'm expanding my knowledge in areas such as Javascript, AWS, Python, ERP, EDI/E-invoicing, and more.
+- 💼 I'm a thesis student at Haaga-Helia University of Applied Sciences, pursuing a BBA in Information Technology. My research focuses on developing tools for domestic and cross-border electronic procurement processes. I'm also a Developer at Apix Messaging Oy, and in my free time, I'm passionate about furthering my knowledge in this field.
 - 📫 You can reach me at my:
   - [LinkedIn](https://fi.linkedin.com/in/otso-metsaportti)
 
